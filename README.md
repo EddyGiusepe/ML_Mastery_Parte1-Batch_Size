@@ -15,3 +15,8 @@ Temos:
 * Stochastic Gradient Descent (Gradiente descendente estocástico).
 
 * Minibatch Gradient Descent (Gradiente descendente Minibatch).
+
+
+
+
+Thanks God! 
